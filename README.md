@@ -44,6 +44,11 @@ For the record, this is how default Midnight Commander skin looks like (without 
 ![Midnight Commander skin](screenshots/midnight-commander.png)
 
 
+## License
+
+Skins are public domain.
+
+
 ## Contact
 
 If you would have any questions or so, write to me at ales.janda@kyblsoft.cz.
