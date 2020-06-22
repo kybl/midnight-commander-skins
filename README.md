@@ -40,7 +40,7 @@ I'm using Volkov Commander skin for everyday use and it is very well usable.
 ![Far Manager skin](screenshots/far-manager.png)
 
 ### Default Midnight Commander skin
-For the record, this is the default Midnight Commander skin looks like (without menu and hint bars):
+For the record, this is how default Midnight Commander skin looks like (without menu and hint bars):
 ![Midnight Commander skin](screenshots/midnight-commander.png)
 
 
