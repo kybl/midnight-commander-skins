@@ -13,7 +13,8 @@ I tried to make skins as similar as possible but with preserving MC usability. S
 
 * in other commanders, there are no special colors for different file types. Some of the types did not even exist. Skins here keep colors from the Midnight Commander (because of usability). Also, directories have a different color than file for the same reason. You can edit skin if you like to have exactly the same colors but I found this more useful
 * originally, there are some special dialogs with special colors (like in `Find File`). Midnight Commander has not a special color scheme for it, so it is the same as the rest
-* some of the visual properties is not possible to achieve in Midnight Commander, like a different color of buttons, or dialog padding, dialog shadows or zooming boxes
+* some of the visual properties is not possible to achieve in Midnight Commander, like a different color of buttons, or dialog padding or zooming boxes
+* dialog shadows are available since MC 4.8.26 (or [from 2020-08-02](https://github.com/MidnightCommander/mc/commit/72740285da58735495e442e212476c1798a22881); currently just development version)
 * I did not change colors of `Diff Viewer`, and only some colors from `Help`. If you would like to improve this, make a pull request :-)
 
 
